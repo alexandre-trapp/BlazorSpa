@@ -9,8 +9,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Client\BlazorSpa.Client.csproj" />
-    <ProjectReference Include="..\Shared\BlazorSpa.Shared.csproj" />
+    <ProjectReference Include="..\Client\BlazorSpaNew.Client.csproj" />
+    <ProjectReference Include="..\Shared\BlazorSpaNew.Shared.csproj" />
   </ItemGroup>
 
 
