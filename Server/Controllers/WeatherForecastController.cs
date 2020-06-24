@@ -1,11 +1,11 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
-using BlazorAppNew.Shared;
+using BlazorSpaNew.Shared;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 
-namespace BlazorAppNew.Server.Controllers
+namespace BlazorSpaNew.Server.Controllers
 {
     [ApiController]
     [Route("[controller]")]

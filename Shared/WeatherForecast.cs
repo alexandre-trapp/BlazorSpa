@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace BlazorAppNew.Shared
+namespace BlazorSpaNew.Shared
 {
     public class WeatherForecast
     {
